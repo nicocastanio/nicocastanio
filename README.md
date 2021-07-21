@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Nico
+
+Skills: ABAP, PHP, Vuejs, Python 
+
+- 🌱 I try to always be learning.
 
 <!--
 **nicocastanio/nicocastanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
